@@ -6,7 +6,7 @@ email: ball@berkeley.edu
 url: https://berkeley-eecs.github.io/parsons-problems
 
 remote_theme: pmarsceill/just-the-docs
-theme: "just-the-docs"
+# theme: "just-the-docs"
 
 markdown: kramdown
 kramdown:
