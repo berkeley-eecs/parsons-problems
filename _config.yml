@@ -3,7 +3,8 @@ author: Michael Ball
 description: >
   TODO.
 email: ball@berkeley.edu
-url: https://berkeley-eecs.github.io/parsons-problems
+url: https://berkeley-eecs.github.io/
+baseurl: /parsons-problems
 
 remote_theme: pmarsceill/just-the-docs
 # theme: "just-the-docs"
