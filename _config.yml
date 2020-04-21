@@ -1,0 +1,21 @@
+title: 'Parsons Problems'
+author: Michael Ball
+description: >
+  TODO.
+email: ball@berkeley.edu
+url: https://berkeley-eecs.github.io/parsons-problems
+
+remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: [1, 2, 3, 4, 5, 6]
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  show_warnings: true
+  # coderay: true
